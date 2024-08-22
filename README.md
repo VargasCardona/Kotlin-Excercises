@@ -6,7 +6,7 @@ This repository contains the solutions for two Kotlin programming assignments:
 Each exercise includes problem statement and requirements. Solutions are provided.
 
 ## Developed by
-- Nicolas Vargas Cardona
+- Nicolás Vargas Cardona
 - Mateo Loaiza García
 
 ## Getting Started
